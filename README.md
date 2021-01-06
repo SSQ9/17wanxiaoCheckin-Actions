@@ -59,7 +59,7 @@ if post_dict:
 
 **3、我们学校要求打卡的时间不一样，这个自动运行的时间该怎么修改？**
 
-进入.github/workflows/run.yml修改时间
+进入.github/workflows/run.yml修改时间 
 
 ```python
 """
